@@ -5,16 +5,22 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: Generate Profile Summary Cards
+
+    permissions:
+      contents: write
 
     steps:
-      - name: Generate summary cards
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          USERNAME: SergioWilliamsx
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
