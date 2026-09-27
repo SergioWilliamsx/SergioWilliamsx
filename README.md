@@ -23,20 +23,11 @@ Building things. Breaking things. Understanding how they work.
 
 ---
 
-## `> about_me`
+<div align="center">
 
-I'm a Computer Science student interested in understanding how software works — from algorithms and data structures to APIs, databases and complete applications.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&text=%24%20cat%20about.txt&fontColor=00FF41&fontSize=28&fontAlignY=30&desc=Computer%20Science%20student%20%40%20UEPB%20%7C%20Backend%20Developer%20%7C%20Algorithms%20%26%20Systems&descColor=FFFFFF&descSize=16&descAlignY=65"/>
 
-I enjoy building practical projects, solving problems and learning by actually implementing things.
-
-### Currently focused on
-
-* Backend development
-* Algorithms & Data Structures
-* Discrete Mathematics
-* Software Engineering
-* Systems
-
+</div>
 ---
 
 ## `> tech_stack`
