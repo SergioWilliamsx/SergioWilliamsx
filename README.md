@@ -1,50 +1,58 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=850&lines=%24+whoami;%3E+S%C3%A9rgio+Williams;%24+cat+about.txt;%3E+Computer+Science+student+%40+UEPB;%3E+Backend+Developer;%3E+Algorithms+%7C+Systems+%7C+Software;%24+./start.sh;%3E+Welcome+to+my+GitHub..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=%24+whoami;%3E+S%C3%A9rgio+Williams;%24+./start.sh;%3E+Computer+Science+student+%40+UEPB;%3E+Backend+Developer;%3E+Algorithms+%7C+Systems+%7C+Software+Engineering;%24+echo+%22Welcome+to+my+GitHub%22" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header"/>
 
 </div>
 
-## `> whoami`
-
-```text
-Sérgio Williams
-
-Computer Science student @ UEPB
-Backend Developer
-Algorithms & Data Structures enthusiast
-Software Engineering learner
-
-Building things. Breaking things. Understanding how they work.
-```
-
----
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&text=%24%20cat%20about.txt&fontColor=00FF41&fontSize=28&fontAlignY=30&desc=Computer%20Science%20student%20%40%20UEPB%20%7C%20Backend%20Developer%20%7C%20Algorithms%20%26%20Systems&descColor=FFFFFF&descSize=16&descAlignY=65"/>
+<!--
+Generate this banner with:
+https://github.com/Wenoxxxx/svg-readme
+
+Recommended settings:
+Dark theme
+Accent: #00FF41
+Font: Mono
+Motion: Typewriter
+Size: Wide
+
+After exporting, save it as:
+assets/about.svg
+
+Then replace the image below with:
+<img src="./assets/about.svg" width="100%">
+-->
+
+<img src="./assets/about.svg" width="100%">
 
 </div>
+
+<br>
+
 ---
 
 ## `> tech_stack`
 
-### Languages
+### `languages`
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,python,dart,html,css" />
 </p>
 
-### Frameworks & Runtime
+### `frameworks_runtime`
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,react,flutter,vite,tailwind" />
 </p>
 
-### Databases & Tools
+### `databases_tools`
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,linux,docker" />
@@ -54,51 +62,72 @@ Building things. Breaking things. Understanding how they work.
 
 ## `> projects`
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🌸 Florarte
 
-**Full-stack inventory and management system.**
+**Full-stack inventory & management system**
 
-A real-world application designed to manage the daily operations of a flower shop.
+Real-world application designed to manage the daily operations of a flower shop.
 
-**Stack**
-
-`React` `Node.js` `Express` `MongoDB` `JWT`
+`React` `Node.js` `Express` `MongoDB`
 
 **Features**
 
 * Authentication
 * Role-based access
-* Product management
-* Categories
+* Products & categories
 * Sales
 * Reservations
 * Inventory movements
 * Reports
 * Employee management
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🖐️ Gesture Studio
 
-**Control your computer using hand gestures.**
+**Control your computer with hand gestures**
 
 Desktop application using computer vision to recognize hand gestures and trigger computer actions.
 
-**Stack**
-
 `Electron` `JavaScript` `MediaPipe` `AutoHotkey`
 
-→ [View repository](https://github.com/SergioWilliamsx/gesture-studio)
+<a href="https://github.com/SergioWilliamsx/gesture-studio">
+View repository →
+</a>
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🧠 Algorithm Practice
 
-A collection of implementations and solutions focused on problem solving and algorithmic thinking.
+A collection of implementations focused on problem solving and algorithmic thinking.
 
-**Topics**
+`Algorithms` `Data Structures` `Recursion` `Graphs`
 
-`Data Structures` `Algorithms` `Recursion` `Graphs` `Searching` `Sorting` `Complexity`
+`Searching` `Sorting` `Complexity`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ More coming...
+
+Building, experimenting and learning.
+
+New projects will appear here as they become worth showing.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -114,35 +143,35 @@ Systems                          ███████████████�
 
 ---
 
-## `> problem_solving`
+## `> problem_solving.exe`
 
 ```text
-                  ┌───────────────┐
-                  │    PROBLEM    │
-                  └───────┬───────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │   UNDERSTAND  │
-                  └───────┬───────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │    ALGORITHM  │
-                  └───────┬───────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │     CODE      │
-                  └───────┬───────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │     TEST      │
-                  └───────┬───────┘
-                          │
-                          ▼
-                     ✓ ACCEPTED
+                         ┌───────────────┐
+                         │    PROBLEM    │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │   UNDERSTAND  │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │    ALGORITHM  │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │     CODE      │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │     TEST      │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                            ✓ ACCEPTED
 ```
 
 ---
@@ -169,7 +198,7 @@ Systems                          ███████████████�
 
 ---
 
-## `> contribution_graph`
+## `> activity.log`
 
 <div align="center">
 
@@ -199,7 +228,7 @@ STATUS: █
 
 ---
 
-## `> goals`
+## `> goals.txt`
 
 ```text
 [ ] Become a better software engineer
@@ -212,12 +241,26 @@ STATUS: █
 
 ---
 
+## `> system.info`
+
+```text
+OS              : Linux / Windows
+Editor          : VS Code
+Primary stack   : JavaScript / TypeScript
+Backend         : Node.js / Express
+Database        : MongoDB / MySQL
+Currently       : Computer Science @ UEPB
+Focus           : Backend / Algorithms / Systems
+```
+
+---
+
 ## `> contact`
 
 <div align="center">
 
 <a href="https://github.com/SergioWilliamsx">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
 </a>
 
 </div>
@@ -230,6 +273,9 @@ STATUS: █
 
 <br><br>
 
-> "The best way to learn how something works is to build it yourself."
+```text
+$ echo "Keep building."
+> Keep building.
+```
 
 </div>
