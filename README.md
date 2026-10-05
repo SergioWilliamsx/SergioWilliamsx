@@ -1,68 +1,72 @@
-# 👨‍💻 Sérgio Williams
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=%24+whoami;%3E+S%C3%A9rgio+Williams;%24+./start.sh;%3E+Computer+Science+%40+UEPB;%3E+Backend+Developer;%3E+Algorithms+%7C+Systems+%7C+Software+Engineering" />
-</p>
+<!-- Header / Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=%24+whoami;%3E+S%C3%A9rgio+Williams;%24+./start.sh;%3E+Computer+Science+%40+UEPB;%3E+Backend+Developer;%3E+Algorithms+%7C+Systems+%7C+Software+Engineering" alt="Header Typing" />
 
-## About Me
+<br/><br/>
 
-<p align="center">
-  <img src="./assets/about.svg" alt="About Me Text/Icon" width="900"/>
-</p>
+<!-- About / Bio Image -->
+<img src="./assets/about.svg" width="850" alt="About Me"/>
 
----
+<br/><br/>
 
-## My Tech Stack
+<!-- Tech Stack -->
+<img src="https://skillicons.dev/icons?i=js,ts,python,dart,nodejs,express,react,flutter,mongodb,mysql,git,github,linux,docker&perline=14" alt="Tech Stack" />
 
-A collection of languages, frameworks, and tools that I am proficient in.
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,dart,nodejs,express,react,flutter,mongodb,mysql,git,github,linux,docker&perline=14" />
-</p>
+<br/>
 
 ---
 
-## Featured Projects
+<br/>
 
-Here are some of my personal projects.
+<!-- Featured Projects -->
+<div align="center">
+  <h3>⚡ Featured Projects</h3>
+  <a href="https://github.com/SergioWilliamsx/gesture-studio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioWilliamsx&repo=gesture-studio&theme=dark&bg_color=000000&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&border_color=00FF41" width="425"/>
+  </a>
+  <a href="https://github.com/SergioWilliamsx/florarte">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioWilliamsx&repo=florarte&theme=dark&bg_color=000000&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&border_color=00FF41" width="425"/>
+  </a>
+</div>
 
-| [gesture-studio](https://github.com/SergioWilliamsx/gesture-studio) | [florarte](https://github.com/SergioWilliamsx) |
-| :---: | :---: |
-| <a href="https://github.com/SergioWilliamsx/gesture-studio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioWilliamsx&repo=gesture-studio&theme=dark&bg_color=000000&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&border_color=00FF41" alt="gesture-studio pin"/></a> | <a href="https://github.com/SergioWilliamsx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioWilliamsx&repo=florarte&theme=dark&bg_color=000000&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&border_color=00FF41" alt="florarte pin"/></a> |
-
----
-
-## GitHub Statistics & Insights
-
-My journey and impact in numbers.
-
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" width="100%"/>
-</p>
-
-| Language Breakdown | Contribution Stats |
-| :---: | :---: |
-| <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" width="100%"/> | <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="100%"/> |
-
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" width="100%"/>
-</p>
+<br/>
 
 ---
 
-## Activity Timeline
+<br/>
 
-A detailed view of my contributions.
+<!-- Snake Contribution Grid (Destaque Principal) -->
+<div align="center">
+  <h3>🐍 Contribution Graph</h3>
+  <img src="https://raw.githubusercontent.com/SergioWilliamsx/SergioWilliamsx/output/github-contribution-grid-snake.svg" width="900" alt="Snake Graph"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SergioWilliamsx&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</p>
+<br/>
 
 ---
 
-## Streaks & Grid
+<br/>
 
-Maintaining the momentum.
+<!-- Key Metrics & Streak -->
+<div align="center">
+  <h3>📊 GitHub Overview</h3>
+  <img src="https://streak-stats.demolab.com?user=SergioWilliamsx&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="850" alt="GitHub Streak"/>
+  
+  <br/><br/>
+  
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="850" alt="Profile Details"/>
+</div>
 
-<p align="center">
-  <img src="
+<br/>
+
+---
+
+<br/>
+
+<!-- Roadmap & Workflow Side by Side -->
+<div align="center">
+  <img src="./assets/roadmap.svg" width="425" alt="Roadmap"/>
+  <img src="./assets/workflow.svg" width="425" alt="Workflow"/>
