@@ -27,9 +27,6 @@
   <a href="https://github.com/SergioWilliamsx/gesture-studio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioWilliamsx&repo=gesture-studio&theme=dark&bg_color=000000&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&border_color=00FF41" width="425"/>
   </a>
-  <a href="https://github.com/SergioWilliamsx/florarte">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioWilliamsx&repo=florarte&theme=dark&bg_color=000000&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&border_color=00FF41" width="425"/>
-  </a>
 </div>
 
 <br/>
