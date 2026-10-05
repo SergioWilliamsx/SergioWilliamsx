@@ -64,5 +64,4 @@
 
 <!-- Roadmap & Workflow Side by Side -->
 <div align="center">
-  <img src="./assets/roadmap.svg" width="425" alt="Roadmap"/>
-  <img src="./assets/workflow.svg" width="425" alt="Workflow"/>
+  <img src="./workflow.jpg" width="425" alt="Workflow"/>
