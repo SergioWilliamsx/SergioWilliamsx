@@ -53,7 +53,7 @@
   
   <br/><br/>
   
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="850" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SergioWilliamsx&theme=github_dark" width="850" alt="Profile Details"/>
 </div>
 
 <br/>
