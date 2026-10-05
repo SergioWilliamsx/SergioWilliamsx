@@ -48,7 +48,7 @@
 
 <!-- Key Metrics & Streak -->
 <div align="center">
-  <h3>📊 GitHub Overview</h3>
+  <h3> GitHub Overview</h3>
   <img src="https://streak-stats.demolab.com?user=SergioWilliamsx&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="850" alt="GitHub Streak"/>
   
   <br/><br/>
