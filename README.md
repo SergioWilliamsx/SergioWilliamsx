@@ -23,7 +23,7 @@
 
 <!-- Featured Projects -->
 <div align="center">
-  <h3>⚡ Featured Projects</h3>
+  <h3>Featured Projects</h3>
   <a href="https://github.com/SergioWilliamsx/gesture-studio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioWilliamsx&repo=gesture-studio&theme=dark&bg_color=000000&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&border_color=00FF41" width="425"/>
   </a>
@@ -40,7 +40,6 @@
 
 <!-- Snake Contribution Grid (Destaque Principal) -->
 <div align="center">
-  <h3>🐍 Contribution Graph</h3>
   <img src="https://raw.githubusercontent.com/SergioWilliamsx/SergioWilliamsx/output/github-contribution-grid-snake.svg" width="900" alt="Snake Graph"/>
 </div>
 
