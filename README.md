@@ -6,7 +6,7 @@
 <br/><br/>
 
 <!-- About / Bio Image -->
-<img src="./assets/about.svg" width="850" alt="About Me"/>
+<img src="./aboutme.jpg" width="850" alt="About Me"/>
 
 <br/><br/>
 
