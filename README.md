@@ -21,16 +21,6 @@
 
 <br/>
 
-<!-- Featured Projects -->
-<div align="center">
-  <h3>Featured Projects</h3>
-  <a href="https://github.com/SergioWilliamsx/gesture-studio">
-    <img src="https://vercel.app" width="425"/>
-  </a>
-</div>
-
-<br/>
-
 ---
 
 <br/>
